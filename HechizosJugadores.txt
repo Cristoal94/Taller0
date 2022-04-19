@@ -1,0 +1,4 @@
+Danni,Meteo,Rayo
+Cristo,Rayo
+MainYasuo,Ventisca
+Aquiles,Rayo
