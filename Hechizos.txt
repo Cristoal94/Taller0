@@ -1,0 +1,5 @@
+Meteo,9999
+Rayo,5555
+Ventisca,1111
+Explosion,500
+Fuego,999
